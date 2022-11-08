@@ -1,0 +1,10 @@
+{
+    "articles": [ 
+        {"name": "Book", "hasBasicTax": false},
+        {"name": "Music CD", "hasBasicTax": true},
+        {"name": "Chocolate Bar", "hasBasicTax": false},
+        {"name": "Box of Chocolates", "hasBasicTax": false},
+        {"name": "Bottle of Perfume", "hasBasicTax": true},
+        {"name": "Heedache pills", "hasBasicTax": false}
+    ]
+}
